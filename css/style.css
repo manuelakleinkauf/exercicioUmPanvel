@@ -1,0 +1,51 @@
+body{
+    position: relative;
+    background-color: rgb(235, 235, 235);
+}
+
+input{
+    padding: 12px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 300px;
+    flex-direction: column;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    position: relative;
+}
+
+#btn{
+    align-items: center;
+    padding: 6px;
+    cursor: pointer;
+    background-color: rgb(182, 205, 255);
+}
+
+
+div{
+    position: relative;
+    left:420px;
+    top:140px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 60px;
+    width: 450px;
+    flex-direction: column;
+    box-shadow: 0 0 30px rgba(0,0,0,0.2);
+}
+
+
+
+textarea{
+    background-color: transparent;
+    outline: none;
+    border-radius: 5px;
+    text-align: center;
+    transform: scale(1.5);
+    margin-bottom: 70px;
+    margin-left: 80px;
+    width: 305px;
+    position: relative;
+    top:40px;
+    cursor: pointer;
+}
